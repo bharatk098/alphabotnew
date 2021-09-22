@@ -1,0 +1,48 @@
+{
+  "name": "BOTZ",
+  "version": "0.0.10",
+  "description": "No comment",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "NAYLA",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.5.2", 
+    "async": "^3.2.0",
+    "axios": "^0.21.1",
+    "cfonts": "^2.9.1",
+    "escape-string-regexp": "^4.0.0",
+    "fake-useragent": "^1.0.1",
+    "file-type": "^16.2.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "image-to-base64": "^2.1.1",
+    "imgbb-uploader": "^1.3.0",
+    "lolis.life": "^4.0.0",
+    "moment-timezone": "^0.5.33",
+    "imgbb-uploader": "^1.3.0",
+    "multistream": "^4.0.1",
+    "node-fetch": "^2.6.1",
+    "remove.bg": "^1.3.0",
+    "request": "^2.81.0",
+    "sharp": "^0.27.2",
+    "spinnies": "^0.5.1",
+    "yt-search": "^2.7.6",
+    "tiktok-scraper": "^1.4.12"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naylachan/BOTZ2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/naylachan/BOTZ2/issues"
+  },
+  "homepage": "https://github.com/naylachan/BOTZ2#readme"
+}
+
