@@ -14,42 +14,59 @@
 
 -------
 
-## `ADD BUILDPACK`
+## `TERMUX`
+
+1. Git clone this repo<br/>
 
 ```
+> git clone https://github.com/zeeoneofc/BOTZ10a.git
+> cd BOTZ10a
+> npm i
+```
+2. Run<br/>
+
+```
+> npm start
+```
+
+## `HEROKU`
+
+1. Add Buildpack<br/>
+
+```
+> nodeajs
 > https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 ```
+2. Delpoy<br/>
 
-## `CHANGE SESSION`
+[`Click Here For Tutorial`](https://youtu.be/_CP2_1Yqauo)<br>
 
-[`Click Here`](https://github.com/zeeoneofc/Alphabot7/blob/master/session.json#L1)
-
-## `SETTING`
-
-- Owner number [Here](https://github.com/zeeoneofc/Alphabot7/blob/master/settings.json#L4)
-- Owner name [Here](https://github.com/zeeoneofc/Alphabot7/blob/master/settings.json#L13)
-- Botname [Here](https://github.com/zeeoneofc/Alphabot7/blob/master/settings.json#L14)
-
-## `CHANGE DYNO`
-
-Off in web nya
-
-----------
+3. Change Dyno<br/>
 
 <p align="center">
   <a href="https://youtu.be/_CP2_1Yqauo"><img src="https://a.top4top.io/p_20888ybra1.jpg" />
 </p>
 
-## ```HOW TO DEPLOY```
 
-[`Click Here For Tutorial`](https://youtu.be/_CP2_1Yqauo)<br>
+## `CHANGE SESSION`
 
-----------
+1. Put your session here<br/>
 
-<p align="center">
-  <a href="https://youtu.be/_CP2_1Yqauo"><img src="https://a.top4top.io/p_2081imvxm1.jpg" />
-</p>
+[`Click Here`](https://github.com/zeeoneofc/Alphabot7/blob/master/session.json#L1)
 
+## `SETTING`
+
+- Owner Number [`Here`](https://github.com/zeeoneofc/Alphabot7/blob/master/settings.json#L4)
+- Owner Name [`Here`](https://github.com/zeeoneofc/Alphabot7/blob/master/settings.json#L13)
+- Bot Name [`Here`](https://github.com/zeeoneofc/Alphabot7/blob/master/settings.json#L14)
+
+## Thanks To
+
+- [`Nayla`]()
+- [`Rynz`]()
+- [`Loki Killers`]()
+- [`Ara-Ara`]()
+- [`All creator bot`]()
 
 ## ```COFFEE```
 
