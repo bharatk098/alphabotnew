@@ -1,4 +1,9 @@
 # ```BOTZ10 LAST```
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/zeeoneofc/BOTZ10a/main/image/Alphabot.jpg" alt="BOTZ10" width="128" height="128"/>
+</p>
+
 <p align="center">
 <a href="https://github.com/zeeoneofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofc?color=red&style=flat-square"></a>
 <a href="https://github.com/zeeoneofc/Alphabot7/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zeeoneofc/Alphabot7?color=blue&style=flat-square"></a>
