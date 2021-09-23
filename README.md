@@ -1,7 +1,7 @@
 # ```BOTZ10 LAST```
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/zeeoneofc/BOTZ10a/main/image/Alphabot.jpg" alt="BOTZ10" width="128" height="128"/>
+<img src="https://github.com/zeeoneofc/BOTZ10a/blob/master/image/Alphabot.jpg" alt="BOTZ10" width="128" height="128"/>
 </p>
 
 <p align="center">
