@@ -13,9 +13,9 @@
 <p align='center'>
 <a href="https://github.com/zeeoneofc/BOTZ10a#TERMUX">Termux</a> •
 <a href="https://github.com/zeeoneofc/BOTZ10a#HEROKU">Heroku</a> •
-<a href="https://github.com/zeeoneofc/BOTZ10a#SESSION">Session</a><br>
+<a href="https://github.com/zeeoneofc/BOTZ10a#CHANGE-SESSION">Session</a><br>
 <a href="https://github.com/zeeoneofc/BOTZ10a#SETTING">Setting</a> •
-<a href="https://github.com/zeeoneofc/BOTZ10a#THANKS TO">Thanks</a>     
+<a href="https://github.com/zeeoneofc/BOTZ10a#thanks-to">Thanks</a>     
 </p>
 
 -------
