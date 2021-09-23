@@ -9,8 +9,14 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzeeoneofc%2FAlphabot7&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/zeeoneofc/Alphabot7/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
+
 <p align='center'>
-    </p>
+<a href="https://github.com/zeeoneofc/BOTZ10a#TERMUX">Termux</a> •
+<a href="https://github.com/zeeoneofc/BOTZ10a#HEROKU">Heroku</a> •
+<a href="https://github.com/zeeoneofc/BOTZ10a#SESSION">Session</a><br>
+<a href="https://github.com/zeeoneofc/BOTZ10a#SETTING">Setting</a> •
+<a href="https://github.com/zeeoneofc/BOTZ10a#THANKS TO">Thanks</a>     
+</p>
 
 -------
 
@@ -60,7 +66,7 @@
 - Owner Name [`Here`](https://github.com/zeeoneofc/Alphabot7/blob/master/settings.json#L13)
 - Bot Name [`Here`](https://github.com/zeeoneofc/Alphabot7/blob/master/settings.json#L14)
 
-## Thanks To
+## `THANKS TO`
 
 - [`Nayla`]()
 - [`Rynz`]()
